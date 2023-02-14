@@ -1,0 +1,23 @@
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\Vehicle Detection.exe.config
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\Vehicle Detection.exe
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\Vehicle Detection.pdb
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Controls.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Imaging.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Math.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Video.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Vision.dll
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Controls.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Imaging.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Math.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Video.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\bin\Debug\AForge.Vision.xml
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.csprojAssemblyReference.cache
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle_Detection.Properties.Resources.resources
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.csproj.GenerateResource.cache
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.csproj.CoreCompileInputs.cache
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.csproj.CopyComplete
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.exe
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle Detection.pdb
+D:\Test4\Vehicle Detection\Vehicle Detection\obj\Debug\Vehicle_Detection.Form1.resources
