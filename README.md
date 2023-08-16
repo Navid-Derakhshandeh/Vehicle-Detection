@@ -6,6 +6,6 @@ For Developed This Software Codes has Used AForege.Net Library and EmguCv.Net Li
 ![Screenshot (357)](https://github.com/Navid-Derakhshandeh/Vehicle-Detection/assets/111235264/8d432b09-55ce-4935-b74a-59d59e0395f7)
 
 
-Labeling: In This Software Codes Can Tagging Vehicle. This Software Codes Can Detect Vehicle by Data Set and Then You can Write Your Own considered Vehicle Names Add to The Model and Training That. After That Software Performs Tagging the Vehicles by Your considered Names That You have gave to the Software.
+Labeling: This Software Codes Can Tagging Vehicle. This Software Codes Can Detect Vehicle by Data Set and Then You can Write Your Own considered Vehicle Names Add to The Model and Training That. After That Software Performs Tagging the Vehicles by Your considered Names That You have gave to the Software.
 
 ![Screenshot (359)](https://github.com/Navid-Derakhshandeh/Vehicle-Detection/assets/111235264/05ad9f5b-1401-4c35-b23e-60b7366ad2c2)
