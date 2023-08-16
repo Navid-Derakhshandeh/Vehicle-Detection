@@ -1,5 +1,4 @@
 # Vehicle-Detection Version 1.0.02
-
 For Developed This Software Codes has Used AForege.Net Library and EmguCv.Net Library. 
 This Software Codes Can Detect Motion and Can Recognize Vehicles. 
 In addition, All of These Attributes is Real-Time. 
