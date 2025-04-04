@@ -15,3 +15,12 @@ For Developed This Software Codes has Used AForege.Net Library and EmguCv.Net Li
 Labeling: This Software Codes Can Tagging Vehicle. This Software Codes Can Detect Vehicle by Data Set and Then You can Write Your Own considered Vehicle Names Add to The Model and Training That. After That Software Performs Tagging the Vehicles by Your considered Names That You have gave to the Software.
 
 ![Screenshot (359)](https://github.com/Navid-Derakhshandeh/Vehicle-Detection/assets/111235264/05ad9f5b-1401-4c35-b23e-60b7366ad2c2)
+
+Counting Method Improved:
+
+![Screenshot (543)](https://github.com/user-attachments/assets/52260cbf-d911-4b48-91e2-27f9726523b4)
+
+Performing Software:
+
+https://www.linkedin.com/posts/navid-derakhshandeh-6222331a5_emgucv-aforge-activity-7312955196177838080-OvPC
+
